@@ -160,3 +160,8 @@ The first response will be a MISS; the second is expected to be a HIT.
 
 I have enabled GET, POST, and DELETE requests in line with my own server.
 You can customize this to match your own server's needs.
+
+
+#### Extra
+This Repo serves as a solution to Roadmap.sh Caching Server Problem
+
